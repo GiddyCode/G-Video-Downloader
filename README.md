@@ -1,29 +1,19 @@
-# Pluralsight Course Downloader
+# Video Downloader
 
-Chrome Extension
+This is a Chrome Extension and can also work on other chrome enabled browser like Brave Browser
 
 ## Installation
+First Download this Repo in Zip format and Unzip it, then follow the link for the next steps.
 
-Follow this [guide](https://developer.chrome.com/extensions/getstarted#unpacked) to load extension in developer mode in Chrome browser.
+https://developer.chrome.com/extensions/getstarted#unpacked
+The link will guide you on how to load extension in developer mode in Chrome browser.
 
 ## Usage
 
-Hit the `s` key while watching the video on pluralsight and it'll be downloaded and organized in folder with appropriate file name!
+While waitching a video Hit the `s` key to save that particular video
 
-Hit the `a` key while watching the video on pluralsight and it'll be downloaded and organized in folder with appropriate file name! Subsequent videos in queue will automatically download after a gap of 30 seconds.
+While waitching a video Hit the `a` key, the entire course / videos would be downloaded and organized in folder with corresponding file name! Succeding videos will be downloaded automatically after 30 seconds intervals.
 
 
 ## NOTE
-
-Pluralsight _Terms of Use_ does not allow downloading / storing of the video.
-
-Quoting from [www.pluralsight.com/terms](https://www.pluralsight.com/terms)
-
-> Proprietary Materials may only be accessed through the Site, and not by or from any other site or means. The applicable License granted you by these Terms of Use is a right of access through the Site only, and does not grant to you any right to download or store any Proprietary Materials in any medium.
-
-## Why I Build It
-
-In school we (students) had no wifi connection so we are forced to use our allowances to buy data and browse..
-I actually built this just for the poor african students that dont regularly have access to wifii data, so they can have a copy of the course offline and not have to spend so much on data studing online....this is also (mainly) for those that got scolarships to study on plurasight where their subscription time and not unlimited...Keeping these things in mind I build this extension.
-
-**there is no further development on this from my side**  Although, anyone willing to do any further development is free to do so. as i do not claim rights to this.
+## Wherever you are downloading from, make sure you read their _Terms of Use_ and follow them squarely.
